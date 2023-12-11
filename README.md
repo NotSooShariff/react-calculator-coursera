@@ -1,11 +1,9 @@
 # React Calculator Application 🧮
 
-### About 
-
-A Simple Calculator Application created with React for the Meta Frontend Developer Certification's Coursework. 
+> ⚠️ Note - This is just a Simple Calculator Application created with React for the Meta Frontend Developer Certification Coursework and not an actively maintained project. 
 
 
-### Prerequisities 
+### Prerequisites 
 
 Ensure you have Git and Node installed on your system and added to PATH on your system.
 
